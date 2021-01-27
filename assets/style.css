@@ -1,0 +1,19 @@
+.body {
+    background-image: url(./images/175910.jpg);
+    background-color: purple;
+    background-repeat: no-repeat;
+    background-blend-mode: screen
+}
+.day5header{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.container {
+    margin-top: 7%;
+    text-align: center;
+    color: darkslategrey;
+    font-weight: bolder;
+}
+.input-field {
+    width: 20%;
+}
