@@ -5,15 +5,18 @@
     background-blend-mode: screen
 }
 .day5header{
-    font-size: 30px;
-    font-weight: bolder;
-}
-.container {
-    margin-top: 7%;
     text-align: center;
-    color: darkslategrey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
     font-weight: bolder;
 }
 .input-field {
     width: 20%;
+}
+.cityName {
+    justify-content: center;
+    width: 33%;
+}
+.currentWeather {
+    text-align: center;
 }
