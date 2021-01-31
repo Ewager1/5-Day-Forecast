@@ -6,11 +6,11 @@
 
 # Preview
 
-![img of preview]()
+![img of preview](https://github.com/chadcourtney9/5-Day-Forecast/blob/main/assets/images/preview.PNG)
 
 # Lighthouse
 
-![img of lighthouse results]()
+![img of lighthouse results](https://github.com/chadcourtney9/5-Day-Forecast/blob/main/assets/images/lighthouse.PNG)
 
 ### Licenses 
 
